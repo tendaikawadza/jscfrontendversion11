@@ -1,0 +1,10 @@
+
+.center {
+    display: flex;
+    justify-content: center;
+  }
+
+  .excelicon{
+    height: 30px;
+    width: 40px;
+  }
